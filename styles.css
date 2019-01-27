@@ -1,0 +1,45 @@
+body {
+	background: url(adventure.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding-top: 50px;
+	font-family: "Lato";
+}
+
+#content {
+	color: white;
+	text-align: center;
+	padding-top: 22%;
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+a navbar-brand {
+	color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: black;
+}
+
+h1 {
+	font-size: 5.0em;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
+.navbar-default .navbar-brand {
+	color: black;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    color: white;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
